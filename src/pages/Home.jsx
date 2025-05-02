@@ -16,29 +16,29 @@ function Home() {
                         <div className="sale-info">
                             <h3>Цифровое Искусство #1</h3>
                             <p className="sale-price">Продано за: 0.5 ETH</p>
-                        </div>
-                    </div>
+                </div>
+            </div>
                     <div className="sale-item">
                         <img src={CardImg1} alt="Pixel Avatar" />
                         <div className="sale-info">
                             <h3>Пиксельный Аватар</h3>
                             <p className="sale-price">Продано за: 0.3 ETH</p>
-                        </div>
-                    </div>
+            </div>
+                </div>
                     <div className="sale-item">
                         <img src={CardImg2} alt="Abstract 3D" />
                         <div className="sale-info">
                             <h3>Абстрактный 3D</h3>
                             <p className="sale-price">Продано за: 0.8 ETH</p>
-                        </div>
-                    </div>
+            </div>
+                </div>
                     <div className="sale-item">
                         <img src={CardImg3} alt="Islamic Geometric" />
                         <div className="sale-info">
                             <h3>Модельный Обезьянка</h3>
                             <p className="sale-price">Продано за: 0.6 ETH</p>
-                        </div>
-                    </div>
+                </div>
+            </div>
                 </div>
             </section>
             <section className="nft-section">
